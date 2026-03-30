@@ -1,4 +1,3 @@
-# portfolio
 # Okoi Micheal Obeten — Virtual Assistant Portfolio
 
 Professional portfolio website showcasing my work as a **Technical Virtual Assistant & Operations Consultant**.
